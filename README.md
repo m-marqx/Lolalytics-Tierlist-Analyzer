@@ -7,8 +7,7 @@ Install the required packages using pip:
 
 ```pip install -r requirements.txt```
 
-You will also need to have the Chrome WebDriver executable installed on your system. You can download it from the following link:
-https://sites.google.com/a/chromium.org/chromedriver/downloads
+You will also need to have the Chrome WebDriver executable installed on your system. You can download it from the following [link](https://sites.google.com/chromium.org/driver/?pli=1)
 
 ## Functions
 The main functions in the code are:
